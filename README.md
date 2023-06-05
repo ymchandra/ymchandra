@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ymchandra
 - 👀 I’m interested in latest frameworks, tools, languages, technologies
-- 🌱 I’m currently learning Dart, Flutter
+- 🌱 I’m currently learning K8, Docker
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me - check my profile
 

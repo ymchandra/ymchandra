@@ -1,23 +1,11 @@
-- 👋 Hi, I’m @ymchandra
-- 👀 I’m interested in latest frameworks, tools, languages, technologies
-- 🌱 I’m currently learning K8, Docker
-- 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me - check my profile
-
-<!---
-ymchandra/ymchandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 <h1 align="center">Hi 👋, I'm Mahesh Chandra</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymchandra" alt="ymchandra" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ymchandra" target="blank"><img src="https://img.shields.io/twitter/follow/ymchandra?logo=twitter&style=for-the-badge" alt="ymchandra" /></a> </p>
+- 🌱 I’m currently learning **K8s, Docker etc**
 
-- 🌱 I’m currently learning **K8s, Docker**
+- 👯 I’m looking to collaborate on **anything that's interesting**
 
 - 📫 How to reach me **hello@ymchandra.in**
 

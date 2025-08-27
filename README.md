@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Chandra</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ymchandra" alt="ymchandra" /></a> </p>
-
 - 🌱 I’m currently learning **K8s, Docker etc**
 
 - 👯 I’m looking to collaborate on **anything that's interesting**
